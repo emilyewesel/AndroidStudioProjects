@@ -76,4 +76,4 @@ In this app, a user views a newspaper layout, in a jagged puzzle of headlines an
 ### Models
 There are going to be two main objects in this app: the podcasts and the users. The podcasts will be accessed through the spotify API, and they will contain the following critical pieces of information: the ability to play the podcast, the title, the description, and the photo. The user will contain the critical login information, as well as possibly some information about the podcasts that a user might want to listen to. 
 ### Networking
-I will not be writing to the Spotify API in this project, so I only have to worry about GET requests. 
+I will not be writing to the Spotify API in this project, so I only have to worry about GET requests. Maybe to integrate use of the camera, I can have a feature that allows someone to scan a spotify barcode. Or, I could ask the users to take pictures of themselves listening to the podcasts.
