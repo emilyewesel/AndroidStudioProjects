@@ -83,12 +83,11 @@ Week 3: The experience of using the app is more personalized
 - [ ] Use item-item filtering to predict what podcast a user wants to listen to
 - [ ] In general, make the UI look more like a newspaper
 
-Week 4/Additional Features
+Week 4: Additional Features
 - [ ] User can like and comment on podcasts
 - [ ] User can search podcasts and find one that relates to their interests
 - [ ] User can click on an author and see more of the podcasts that the author has created
 
-Extra features
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
