@@ -67,6 +67,28 @@ In this app, a user views a newspaper layout, in a jagged puzzle of headlines an
 ## Wireframes
 <img src="Screen Shot 2021-07-07 at 10.27.48 AM.png" width=600>
 
+## Week By Week Goals
+Week 1: The most important goal of this week is to get the spotify API up and running, so that the app can display and play podcasts. This is the first goal of the app. If I finish this before the first week, then I will move on to the goals for week 2. 
+- [ ] User can log in and log out
+- [ ] User can view a reasonably-sized subset of examples using GET requests from the Spotify API
+
+Week 2: Integrate use of the Camera and make the UI look like a newspaper
+- [ ] User can click on a podcast for a more detailed view of information about the podcast
+- [ ] User can take pictures using the camera
+- [ ] These pictures can be saved with a podcast
+- [ ] Some podcasts have just a headline, while others have a headline AND a description
+
+Week 3: The experience of using the app is more personalized
+- [ ] Users can save a podcast and view saved podcasts in a separate screen
+- [ ] Use item-item filtering to predict what podcast a user wants to listen to
+- [ ] In general, make the UI look more like a newspaper
+
+Week 4/Additional Features
+- [ ] User can like and comment on podcasts
+- [ ] User can search podcasts and find one that relates to their interests
+- [ ] User can click on an author and see more of the podcasts that the author has created
+
+Extra features
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
