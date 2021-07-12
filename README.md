@@ -72,10 +72,8 @@ In this app, a user views a newspaper layout, in a jagged puzzle of headlines an
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
+
 ### Models
-[Add table of models]
+There are going to be two main objects in this app: the podcasts and the users. The podcasts will be accessed through the spotify API, and they will contain the following critical pieces of information: the ability to play the podcast, the title, the description, and the photo. The user will contain the critical login information, as well as possibly some information about the podcasts that a user might want to listen to. 
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+I will not be writing to the Spotify API in this project, so I only have to worry about GET requests. 
